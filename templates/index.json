@@ -134,7 +134,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p>we believe that healthy hair starts with a healthy scalp. That’s why we’re dedicated to creating innovative, easy-to-use solutions that elevate your hair care routine and deliver real results.</p><p>Our mission is simple: to combine technology with self-care. We design products that not only improve the effectiveness of your hair treatments but also turn everyday routines into relaxing, enjoyable experiences. With our Electric Scalp Massager & Hair Oil Applicator, you can nourish your scalp with precision while enjoying a soothing massage that promotes better absorption and overall scalp wellness.</p><p>We prioritize quality, safety, and convenience in everything we create. From durable, skin-friendly materials to portable, user-friendly designs, our products are built to fit seamlessly into your lifestyle.</p><p>Whether you're focused on hair growth, scalp health, or simply taking time to care for yourself, we’re here to support your journey—one drop at a time.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -202,22 +202,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "What is your brand about?",
+            "text": "<p>We focus on creating innovative, easy-to-use self-care products that improve everyday routines. Our goal is to combine modern technology with comfort and simplicity.</p><p></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "What kind of products do you offer?",
+            "text": "<p>We specialize in personal care and wellness tools designed to support scalp health, hair care, and overall self-care experiences.</p><p></p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "Are your products safe to use?",
+            "text": "<p>Yes, all of our products are made with high-quality materials and designed with user safety in mind.</p><p></p>"
           }
         }
       },
